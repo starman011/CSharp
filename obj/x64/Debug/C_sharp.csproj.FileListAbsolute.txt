@@ -1,0 +1,7 @@
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\bin\x64\Debug\C_sharp.exe
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\bin\x64\Debug\C_sharp.pdb
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\obj\x64\Debug\C_sharp.csproj.AssemblyReference.cache
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\obj\x64\Debug\C_sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\obj\x64\Debug\C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\obj\x64\Debug\C_sharp.exe
+C:\Users\MD SAQLAIN KHAN\source\repos\C_sharp\C_sharp\obj\x64\Debug\C_sharp.pdb
